@@ -1,0 +1,6 @@
+# Default ignored files + added gradle and misc files
+/shelf/
+/workspace.xml
+/gradle.xml
+/misc.xml
+/compiler.xml
